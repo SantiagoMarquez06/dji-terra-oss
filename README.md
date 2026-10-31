@@ -14,6 +14,8 @@ libre.
 - **`src/`** — implementación libre (spec-first; en preparación).
 - **`tools/`** — utilidades, p. ej. el script de captura de evidencia en ejecución.
 
+> Resumen de una pagina de que se logro y que falta: **[ESTADO.md](ESTADO.md)**.
+
 ## Estado (2026-10-30)
 Análisis **estático** hecho desde un equipo sin GPU:
 - Arquitectura y las **8 tareas del motor** de Terra (RunSFM, Reconstruct2D/3D/3DGS,
